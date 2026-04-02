@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+flask
+streamlit
+paho-mqtt
+firebase-admin
+requests
